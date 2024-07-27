@@ -1,0 +1,22 @@
+*{
+    background-color: black;
+}
+.help{
+    
+    width:100%;
+   
+}
+.help p{
+    font-size:50px;
+    text-align: center;
+    color:white;
+}
+.help p span{
+    color:red;
+}
+.ani{
+    height:10vh;
+    width:100%;
+    background-color: red;
+   
+}
